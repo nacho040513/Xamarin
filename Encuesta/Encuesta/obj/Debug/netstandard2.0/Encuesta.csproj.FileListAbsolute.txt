@@ -1,0 +1,14 @@
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\Encuesta.csprojAssemblyReference.cache
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\bin\Debug\netstandard2.0\Encuesta.deps.json
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\bin\Debug\netstandard2.0\Encuesta.dll
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\bin\Debug\netstandard2.0\ref\Encuesta.dll
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\bin\Debug\netstandard2.0\Encuesta.pdb
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\Encuesta.AssemblyInfoInputs.cache
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\Encuesta.AssemblyInfo.cs
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\Encuesta.dll
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\ref\Encuesta.dll
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\Encuesta.pdb
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\Encuesta.csproj.CoreCompileInputs.cache
+C:\Users\PROYECTOS\source\repos\Encuesta\Encuesta\Encuesta\obj\Debug\netstandard2.0\XamlC.stamp
